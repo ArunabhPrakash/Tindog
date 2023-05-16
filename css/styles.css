@@ -35,7 +35,7 @@ a {
 
 /*Page Section*/
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #ffd700;
   color: #fff;
 }
 
@@ -70,7 +70,7 @@ a {
 
 /*Title section*/
 #title {
-  background-color: #ff4c68;
+  background-color: #ffd700;
   color: white;
   text-align: left;
 }
@@ -100,7 +100,7 @@ a {
 }
 
 .icon {
-  color: #ef8172;
+  color:	#ffd700;
   margin-bottom: 1rem;
 }
 
@@ -110,7 +110,7 @@ a {
 
 /* Testimonials Section */
 #testimonials {
-  background-color: #ef8172;
+  background-color:	#FAFAD2;
 }
 
 .testimonial-text {
@@ -129,7 +129,7 @@ a {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #FAFAD2;
   padding-bottom: 3%;
 }
 
@@ -153,7 +153,7 @@ a {
 }
 
 /* CTA section - styled with other css*/
- 
+
 /* Footer Section*/
 .social-icon {
   color: black;
