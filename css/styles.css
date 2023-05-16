@@ -175,3 +175,52 @@ a {
     transform: rotate(0);
   }
 }
+/*
+
+The provided CSS code contains various styling rules for different elements of the website. Here's an explanation of the major sections and their respective styles:
+1. Body:
+   - `font-family: "Montserrat";` sets the font family for the entire body content.
+   - `text-align: center;` aligns the text content in the center.
+2. Headings:
+   - `h1, h2, h3, h4, h5, h6` targets all heading elements and sets the font family to "Montserrat" and font weight to 800 (bold).
+3. Paragraphs:
+   - `p` sets the color of paragraphs to #8f8f8f (a shade of gray).
+4. Links:
+   - `a` sets the color of links to black.
+5. Heading Styles:
+   - `.big-heading` sets the font family to "Montserrat", font size to 3rem, and line height to 1.5.
+   - `.section-heading` sets the font size to 2.5rem and line height to 1.5.
+6. Containers:
+   - `.container-fluid` sets padding on the top and bottom of 7% and left and right of 15%.
+7. Page Sections:
+   - `.colored-section` sets the background color to #ffd700 (gold) and the text color to white.
+   - `.white-section` sets the background color to #fff (white).
+8. Navigation Bar:
+   - `.navbar` sets padding at the bottom of 4.5rem.
+   - `.navbar-brand` sets the font family to "Ubuntu", font size to 3.5rem, and font weight to bold.
+   - `.nav-item` sets padding on the left and right of 18px.
+   - `.nav-links` sets the font size to 1.2rem and font family to "Montserrat light".
+9. Download Buttons:
+   - `.download-button` sets the margins for the download buttons.
+10. Title Section:
+    - `#title` sets the background color to #ffd700 (gold) and the text color to white.
+    - `#title .container-fluid` sets padding on the top of 3%, bottom of 7%, and left and right of 15%.
+11. Title Image:
+    - `.rotate-15` sets the width to 50%, applies a rotation of 15 degrees, and positions it absolutely to the right at 20%.
+12. Features Section:
+    - `#features` sets the position to relative.
+    - `.feature-title` sets the font size to 1.25rem.
+    - `.feature-box` sets padding on all sides.
+    - `.icon` sets the color to #ffd700 (gold) and adds margin at the bottom.
+    - `.icon:hover` changes the color to #ff4c68 on hover.
+13. Testimonials Section:
+    - `#testimonials` sets the background color to #FAFAD2 (light goldenrod yellow).
+    - `.testimonial-text` sets the font size to 3rem and line height to 1.5.
+    - `.testimonial-image` sets the width to 10%, adds a border-radius of 100%, and applies margin.
+    - `.carousel-item` sets padding on the top and bottom of 7% and left and right of 15%.
+14. Press Section:
+    - `#press` sets the background color to #FAFAD2 (light goldenrod yellow) and adds padding at the bottom of 3%.
+    - `.press-logo` sets the width to 15% and applies margins.
+15. Pricing Section:
+    - `#pricing` sets padding on all
+*/
